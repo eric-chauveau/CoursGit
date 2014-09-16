@@ -7,4 +7,4 @@ Ca va!
 
 Edition en ligne sur GitHub
 
-et en local
+et en local et ca marche
